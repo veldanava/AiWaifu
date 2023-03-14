@@ -5,8 +5,10 @@ import io
 from pydub import AudioSegment
 from pydub.playback import play
 
+# This project was inspired by Adi Panda's YouTube channel content with the same topic namely AI Waifu, but this project is simpler
+
 # ur openai key
-openai.api_key = "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"
+openai.api_key = "paste in here"
 
 print("Hello oniisan....")
 
