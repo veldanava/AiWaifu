@@ -3,7 +3,7 @@
 ![waifu](https://user-images.githubusercontent.com/86060881/224974085-f92ff75f-b03c-47ff-9f9f-9a75d6165711.png)
 
 <h2>🧩 AiWaifu</h2>
-an smart ai waifu with a simple program and ChatGPT implementation<br> this project was inspired by Adi Panda's YouTube channel content with the same topic namely AI Waifu, but this project is simpler <br>
+an smart ai waifu with a simple program and ChatGPT implementations<br> this project was inspired by Adi Panda's YouTube channel content with the same topic namely AI Waifu, but this project is simpler <br>
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 </div>
