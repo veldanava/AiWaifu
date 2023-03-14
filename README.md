@@ -8,19 +8,16 @@ an smart ai waifu with a simple program <br> this project was inspired by Adi Pa
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 </div>
 
-## 🪐 Fun Fact:
+## 🪐 please read this:
 ```zsh
-Send whatsapp message
-Wikipedia search 
-Youtube
-Google
-Give u a joke
-and many more
+to pair sound with character you can install an audio drive called VB Audio
 ```
 
 ## 🎯 install:
 ```zsh
-> pip install -r requirements.txt
+> git clone this repo
+> install dependencies pip install -r requirements.txt
+> i using venv btw, you can activate with python -m venv env and . env/Scripts/activate
 ```
 
 ## ♟ run:
