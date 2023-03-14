@@ -10,7 +10,7 @@ an smart ai waifu with a simple program <br> this project was inspired by Adi Pa
 
 ## 🪐 please read this:
 ```zsh
-to pair sound with character you can install an audio drive called VB Audio
+to pair sound with character you can install an audio drive called VB Audio and don't forget to add openai api key
 ```
 
 ## 🎯 install:
