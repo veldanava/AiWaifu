@@ -33,16 +33,14 @@ and many more
 windows
 ```
 
-## 🚀 add .env like this:
-```zsh
-USER=<ur username>
-BOTNAME=ZETA 
-EMAIL=<ur email>
-PASSWORD=<ur password>
-NEWS_API_KEY=<add>
-OPENWEATHER_APP_ID=<add>
-TMDB_API_KEY=<add>
-```
+## 🚀 example:
+<details>
+<summary><b>Click here</b></summary> 
+using vtubestudio software as a character intermediary
+ 
+![ss](https://user-images.githubusercontent.com/86060881/224975752-77f6dc1a-a7ae-4bdc-b90e-daac24fe5d55.png)
+
+</details>
 
 ## 🌌 support me:
 ```zsh
