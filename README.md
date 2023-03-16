@@ -17,7 +17,7 @@ using vtubestudio software as a character intermediary
 
 </details>
 
-## feature:
+## 🏗 feature:
 ```zsh
 > ChatGPT TTS
 ```
@@ -40,7 +40,7 @@ and dont forget to add openai api key
 > py ai.py / python ai.py
 ```
 
-## platform:
+## 🎮 platform:
 ```zsh
 windows
 maybe u can use steam & proton in linux
@@ -48,5 +48,6 @@ maybe u can use steam & proton in linux
 
 ## 🌌 support me:
 ```zsh
+u can support me on Trakteer ^w^
 teer.id/miraeznain
 ```
