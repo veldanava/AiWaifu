@@ -19,7 +19,7 @@ using vtubestudio software as a character intermediary
 
 ## feature:
 ```zsh
-> ChatGPT
+> ChatGPT TTS
 ```
 
 ## 🪐 please read this:
