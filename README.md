@@ -17,9 +17,15 @@ using vtubestudio software as a character intermediary
 
 </details>
 
+## feature:
+```zsh
+> ChatGPT
+```
+
 ## 🪐 please read this:
 ```zsh
-to pair sound with character you can install an audio drive called VB Audio and dont forget to add openai api key
+to pair sound with character you can install an audio drive called VB Audio 
+and dont forget to add openai api key
 ```
 
 ## 🎯 install:
@@ -37,6 +43,7 @@ to pair sound with character you can install an audio drive called VB Audio and 
 ## platform:
 ```zsh
 windows
+maybe u can use steam & proton in linux
 ```
 
 ## 🌌 support me:
