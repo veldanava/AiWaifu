@@ -9,6 +9,7 @@ an smart ai waifu with a simple program and ChatGPT implementations<br> this pro
 </div>
 
 ## 🚀 example:
+
 <details>
 <summary><b>Click here</b></summary> 
 using vtubestudio software as a character intermediary
@@ -18,35 +19,48 @@ using vtubestudio software as a character intermediary
 </details>
 
 ## 🏗 feature:
+
 ```zsh
 > ChatGPT TTS
 ```
 
 ## 🪐 please read this:
+
 ```zsh
-to pair sound with character you can install an audio drive called VB Audio 
+to pair sound with character you can install an audio drive called VB Audio
 and dont forget to add openai api key
 ```
 
-## 🎯 install:
+## 🎯 install local development:
+
 ```zsh
 > git clone this repo
-> install dependencies pip install -r requirements.txt
-> i using venv btw, you can activate with python -m venv env and . env/Scripts/activate
+> install dependencies `pip install -r requirements.txt`
+```
+
+## 🎯 install with virtual environment python
+
+```zsh
+> install venv `python -m venv env`
+> run command in linux or mac `. env/Scripts/activate` in windows `env/Scripts/activate.bat`
+
 ```
 
 ## ♟ run:
+
 ```zsh
 > py ai.py / python ai.py
 ```
 
 ## 🎮 platform:
+
 ```zsh
 windows
 maybe u can use steam & proton in linux
 ```
 
 ## 🌌 support me:
+
 ```zsh
 u can support me on Trakteer ^w^
 teer.id/miraeznain
