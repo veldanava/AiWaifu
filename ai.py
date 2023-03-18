@@ -42,6 +42,9 @@ def chat():
 
     play(audio_data)
 
+    # if audio not installed
+    # print(output_text)
+
 # run with loop
 while True:
     chat()
